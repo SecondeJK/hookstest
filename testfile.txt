@@ -2,3 +2,4 @@ This is the test file
 Here is the first change
 change
 change
+change
